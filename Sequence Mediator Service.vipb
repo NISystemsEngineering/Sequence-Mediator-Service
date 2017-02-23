@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-02-22 16:28:16" Modified_Date="2017-02-22 16:54:48" Creator="Tanner Blair" Comments="" ID="405bbdea2d095d671829402a77c571c6">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2017-02-22 16:28:16" Modified_Date="2017-02-23 10:27:36" Creator="Tanner Blair" Comments="" ID="e87987e1e221be79f3abf97a8004e99c">
   <Library_General_Settings>
     <Package_File_Name>National_Instruments_lib_Sequence_Mediator_Service</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>Builds</Library_Output_Folder>
@@ -219,7 +219,7 @@
         <Path>Source\Classes\Sequence</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1E842C71CC3EA5E21897E45BEA74FFB2</GUID>
+      <GUID>25BBEC48425563125F4BFB09D8526116</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -296,7 +296,7 @@
         <Path>Source\Classes\Mediator\Monitor Errors.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B94C2A5D0704A5FD752C8C0D3EBAD1AE</GUID>
+      <GUID>DF17672CBEC970B0AFE0E9D64CFD9EA6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -359,7 +359,7 @@
         <Path>Source\Classes\Sequence\Read Name.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8E12A2E7477B0EBD95816949D70C8C82</GUID>
+      <GUID>AA1EA529E8A6D13FB33AA644B0E89969</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -394,7 +394,7 @@
         <Path>Source\Classes\Mediator\Controls\Sequence Return Info.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>96908819981C9CA9EF06D70E7E511F23</GUID>
+      <GUID>9315C6C2F1B052AE7CA91F03CB58123F</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
